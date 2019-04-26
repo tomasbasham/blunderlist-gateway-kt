@@ -1,0 +1,11 @@
+.git/
+chart/
+
+.dockerignore
+.editorconfig
+.gitignore
+.travis.yaml
+cloudbuild.yaml
+Dockerfile
+openapi.yaml
+README.md
